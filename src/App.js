@@ -62,7 +62,7 @@ function App() {
   return (
       <>
           <div className="title">
-                  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&width=700&height=100&lines=Milena's+currency+converter;in+real+time" alt="Typing SVG" />
+                  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&width=700&height=60&lines=Milena's+currency+converter;in+real+time" alt="Typing SVG" />
           </div>
           <div className="App">
               <Block value={fromPrice}
